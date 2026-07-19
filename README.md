@@ -85,7 +85,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/app.py
 ```
-
+## Deployment Demo
+https://youtu.be/VglJZdsdtq8
 ## Author
 
 Sohila — Data Science graduate, Sadat Academy for Management Sciences
