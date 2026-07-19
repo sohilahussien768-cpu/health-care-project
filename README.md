@@ -65,6 +65,9 @@ healthcare-stroke-prediction/
 ├── app/
 │   └── app.py                  # Streamlit stroke risk prediction app
 ├── models/                     # stroke_model.pkl, scaler.pkl, model_columns.pkl (generated, not committed)
+├── presentation/
+│   └── Health_Care_Presentation.pptx
+├── data/                       
 └── README.md
 ```
 
